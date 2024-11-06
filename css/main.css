@@ -61,7 +61,7 @@ header .first-article div p {
 .third-article .logo-bg {
     position: relative;
     background: #00142a;
-    background: url(../Politech/images/header-logo/Qolej.png);
+    background: url(../images/header-logo/Qolej.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center 0;
@@ -279,7 +279,7 @@ main nav a:hover {
 .school__general__logo-bg {
     position: relative;
     background: #00142a;
-    background: url(../Politech/images/footer-logo/footerLogo.png);
+    background: url(../images/footer-logo/footerLogo.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center 0;
